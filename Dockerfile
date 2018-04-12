@@ -1,4 +1,4 @@
-FROM frolvlad/docker-alpine-python-machinelearning
+FROM frolvlad/alpine-python-machinelearning
 
 RUN apk add --no-cache libstdc++ lapack-dev && \
     apk add --no-cache \
