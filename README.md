@@ -1,6 +1,3 @@
-[![Docker Stars](https://img.shields.io/docker/stars/frolvlad/alpine-python-machinelearning.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-python-machinelearning/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/frolvlad/alpine-python-machinelearning.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-python-machinelearning/)
-
 
 Python Machine Learning tools Docker image
 ==========================================
